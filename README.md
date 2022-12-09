@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+#### 🌱 I’m currently learning how to improve more.
+#### ✨ Check my CV <br>
+[김가영_cv_221201.pdf](https://github.com/Goinging98/Goinging98/files/10193440/_cv_221201.pdf)
 
 <!--
 **Goinging98/Goinging98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
