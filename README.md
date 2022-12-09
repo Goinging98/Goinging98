@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### 🌱 I’m currently learning how to improve more.
-#### ✨ Check my CV <br>
+#### ✨ Check my CV and look another projects<br>
 [김가영_cv_221201.pdf](https://github.com/Goinging98/Goinging98/files/10193440/_cv_221201.pdf)
 
 <!--
