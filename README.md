@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 #### 🌱 I’m currently learning how to improve more.
-#### ✨ Check my CV and look another projects<br>
 
 <!--
 **Goinging98/Goinging98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
